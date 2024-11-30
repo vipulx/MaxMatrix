@@ -29,8 +29,8 @@
 MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 
 // WiFi login parameters
-const char* ssid = "Siddhartrockx";
-const char* password = "$iddhart@Wif@0152";
+const char* ssid = "User_SSID";
+const char* password = "Wifi_Password";
 
 // Custom device name for ESP8266
 const char* deviceName = "MaxMatrix";
